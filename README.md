@@ -6,3 +6,5 @@ Run the respective labeled cells for running tuning, training, evaluation, and t
 
 A2C:
 Similar but hyper-paramter tuning is in file labeled A2C Hyperparamter Tuning
+
+THe Project Writeup can be found in CIS730 - Final Paper.csv
